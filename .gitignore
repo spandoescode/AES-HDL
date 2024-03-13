@@ -1,0 +1,7 @@
+*.bmp
+*.pdf
+*.zip
+/vhdl/AES_DEC
+*.txt
+*.out
+aes_test.c
